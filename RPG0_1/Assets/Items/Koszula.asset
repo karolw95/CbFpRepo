@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0af4ba03bbe28f4382acda8d9f1bddd, type: 3}
+  m_Name: Koszula
+  m_EditorClassIdentifier: 
+  name: Koszula
+  icon: {fileID: 21300000, guid: 3129fd0d670a4e741bf6e1b0f2e26b39, type: 3}
+  isDefaultItem: 1
+  armorModifier: 0
+  damageModifier: 0
+  EquipSlot: 1
+  coveredMeshRegions: 0100000000000000
+  SkinnedMesh: {fileID: 6843385887523376202, guid: 81e0fcca902b2ca47957b556a3009ad8,
+    type: 3}
+  InHand: 0
+  NormalMesh: {fileID: 0}

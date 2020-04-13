@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0af4ba03bbe28f4382acda8d9f1bddd, type: 3}
+  m_Name: Miecz
+  m_EditorClassIdentifier: 
+  name: Miecz
+  icon: {fileID: 21300000, guid: ae2657fc7a739db4dab6cf2fff62b76a, type: 3}
+  isDefaultItem: 0
+  ItemRenderer: {fileID: 9030177796512050960, guid: 0ea2830ed577ec84c8d3e793a4bdf6f0,
+    type: 3}
+  armorModifier: 0
+  damageModifier: 10
+  EquipSlot: 5
+  coveredMeshRegions: 
+  SkinnedMesh: {fileID: 0}
+  InHand: 1
+  NormalMesh: {fileID: 9030177796512050960, guid: 0ea2830ed577ec84c8d3e793a4bdf6f0,
+    type: 3}

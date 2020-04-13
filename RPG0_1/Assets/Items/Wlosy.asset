@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0af4ba03bbe28f4382acda8d9f1bddd, type: 3}
+  m_Name: Wlosy
+  m_EditorClassIdentifier: 
+  name: "W\u0142osy"
+  icon: {fileID: 0}
+  isDefaultItem: 1
+  armorModifier: 0
+  damageModifier: 0
+  EquipSlot: 0
+  coveredMeshRegions: 
+  SkinnedMesh: {fileID: 8492309787059238439, guid: 1ddac8ef4318236498f11a119c3469a9,
+    type: 3}
+  InHand: 0
+  NormalMesh: {fileID: 0}
